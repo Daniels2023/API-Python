@@ -16,18 +16,22 @@ The WeatherPy file used OperWeatherMap to analyse and correlate the latitude wit
 It was used citiPy library to locate the nearest city based on random numPy latitude and longitude numbers.
 
 Latitude vs. Max Temperature
+
 ![image](https://user-images.githubusercontent.com/124798004/234319771-83ffdf82-58c5-4dd0-91db-3bd54586e956.png)
 
 
 Latitude vs. Humidity
+
 ![image](https://user-images.githubusercontent.com/124798004/234320230-2730b58a-1eff-4434-b023-48b084de8eb2.png)
 
 
 Northern Hemisphere Latitude vs. Max Temperature
+
 ![image](https://user-images.githubusercontent.com/124798004/234320478-02834023-e672-4052-baa4-692369be1c2c.png)
 
 
 Southern Hemisphere Latitude vs. Max Temperature
+
 ![image](https://user-images.githubusercontent.com/124798004/234320783-9c0712dd-9c2c-485e-8f1c-f988ab34862c.png)
 
 
