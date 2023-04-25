@@ -13,6 +13,22 @@ Cities with the best weather:
 
 The WeatherPy file used OperWeatherMap to analyse and correlate the latitude with temperature, humidity, cloudiness and wind speed.
 
-Please feel free to reach me out if there is any questions or feedbacks.
+It was used citiPy library to locate the nearest city based on random numPy latitude and longitude numbers.
 
-Read me file in progress...
+Latitude vs. Max Temperature
+![image](https://user-images.githubusercontent.com/124798004/234319771-83ffdf82-58c5-4dd0-91db-3bd54586e956.png)
+
+
+Latitude vs. Humidity
+![image](https://user-images.githubusercontent.com/124798004/234320230-2730b58a-1eff-4434-b023-48b084de8eb2.png)
+
+
+Northern Hemisphere Latitude vs. Max Temperature
+![image](https://user-images.githubusercontent.com/124798004/234320478-02834023-e672-4052-baa4-692369be1c2c.png)
+
+
+Southern Hemisphere Latitude vs. Max Temperature
+![image](https://user-images.githubusercontent.com/124798004/234320783-9c0712dd-9c2c-485e-8f1c-f988ab34862c.png)
+
+
+Please feel free to reach me out if there is any questions or feedbacks.
